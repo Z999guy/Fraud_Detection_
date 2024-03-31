@@ -1,7 +1,7 @@
 print("This file is for the ML Model")
 
 def model1():
-    print("The Model 1")
+    print("The Model 1 giveing the accuracy of 80%")
 
 def model2():
     print("The Model 2")
